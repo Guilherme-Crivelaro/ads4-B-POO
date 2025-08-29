@@ -1,4 +1,4 @@
-package com.poo.apiprimeiro.entity;
+package com.poo.apiprimeiro.infrastructure.entity;
 
 import jakarta.persistence.*;
 
